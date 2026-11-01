@@ -10,6 +10,10 @@ College junior at Rutgers University–Newark with coursework in computer networ
 
 **Home Lab & Remote Automation**: two PCs on a private Tailscale network, plus a server and mobile web app I built to send tasks from my phone to my main PC and get the results back.
 
+## Code samples
+
+[luau-gameplay-systems](https://github.com/Dargon0234/luau-gameplay-systems): a burrowing boss, storm weather and enemy AI from my game, with the performance numbers behind them.
+
 ## Tools
 
 Luau · Kotlin · Roblox Studio · Blender · Git & GitHub · Tailscale
