@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Trevor Turner
 
-<!--
-**Dargon0234/Dargon0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+College junior at Rutgers University–Newark with coursework in computer networking and operating systems. I build games and software on my own time, and I'm looking for a summer 2027 internship in game development or software engineering.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Independent Game** (in development): a multiplayer game I'm building in Roblox Studio. I write the gameplay systems in Luau and make the 3D models and animations in Blender, including the combat, enemies and boss fights. Built for phones, tablets and PCs; working toward a public beta.
+
+**NJ Food Trucks R Us** (Android app): a food truck app for New Jersey. I work on the Android side in Kotlin and set up the backend. Getting ready for the Google Play Store.
+
+**Home Lab & Remote Automation**: two PCs on a private Tailscale network, plus a server and mobile web app I built to send tasks from my phone to my main PC and get the results back.
+
+## Tools
+
+Luau · Kotlin · Roblox Studio · Blender · Git & GitHub · Tailscale
+
+## Contact
+
+trevorjr04@gmail.com
